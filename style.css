@@ -1,0 +1,54 @@
+.social{
+    display: flex;
+    gap: 20px;
+    width: 10px;
+    margin-left: 1000px;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    margin-left: -20px;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: roboto;
+}
+.navitem>ul{
+    display: flex;
+    gap: 20px;
+}
+.detail{
+    color: white;
+}
+.para p{
+    font-family: Roboto;
+    font-size: 60px;
+    margin-left: 30px;
+}
+.detail h3{
+    font-size: 60px;
+    margin-left: 30px;
+    margin-top: -60px;
+}
+.para2 p{
+    font-family: comic;
+    margin-top: -30px;
+    margin-left: 30px;
+}
+.detail button{
+    width: 150px;
+    height: 40px;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 5px;
+    background: #4776E6;
+    border: solid #4776E6;
+    color: white;
+    margin-left: 30px;
+    margin-top: 30px;
+}
